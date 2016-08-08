@@ -9,3 +9,7 @@ Git tracks changes of files.
 git log --pretty=oneline
 git reset --hard HEAD^
 git reflog
+
+want to discard last record?
+	git checkout -- readme.txt  //clear working space
+	git reset HEAD file	    //unstage,then you can use checkout
