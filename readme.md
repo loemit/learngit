@@ -11,5 +11,7 @@ git reset --hard HEAD^
 git reflog
 
 want to discard last record?
-	git checkout -- readme.txt  //clear working space
+	git checkout -- readme.txt  //clear working space,replaced by repo  
 	git reset HEAD file	    //unstage,then you can use checkout
+
+git remote add origin git@github.com:pia/learngit.git
