@@ -15,3 +15,4 @@ want to discard last record?
 	git reset HEAD file	    //unstage,then you can use checkout
 
 git remote add origin git@github.com:pia/learngit.git
+git remote set-url origin git@github.com:pia/learngit.git
