@@ -16,3 +16,8 @@ want to discard last record?
 
 git remote add origin git@github.com:pia/learngit.git
 git remote set-url origin git@github.com:pia/learngit.git
+
+sudo git config --global core.autocrlf false
+
+![branch]([Imgur](http://i.imgur.com/Bw4bwUV.png)
+Creating a new branch is quick.
