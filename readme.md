@@ -21,3 +21,7 @@ sudo git config --global core.autocrlf false
 
 ![branch]([Imgur](http://i.imgur.com/Bw4bwUV.png)
 Creating a new branch is quick.
+	git branch dev=git branch dev;git checkout dev
+	git branch master
+	git merge dev
+	git branch -d dev
