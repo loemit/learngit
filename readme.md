@@ -25,8 +25,4 @@ Creating a new branch is quick.
 	git branch master
 	git merge dev
 	git branch -d dev
-<<<<<<< HEAD
 Creating a new branch is quick and simple.
-=======
-Creating a branch is quick and simple.
->>>>>>> feature1
