@@ -26,3 +26,7 @@ Creating a new branch is quick.
 	git merge dev
 	git branch -d dev
 Creating a new branch is quick and simple.
+
+git stash
+git stash list
+git stash pop/git stash apply;git stash drop
