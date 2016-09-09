@@ -32,3 +32,6 @@ git stash
 git stash list
 git stash pop/git stash apply;git stash drop
 
+Tag:
+	git tag v1.0
+	git tag v0.9 d013f
