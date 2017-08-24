@@ -1,3 +1,7 @@
+[![PyPI version]][PyPI] [![Build Status]][Travis CI]
+
+|PyPI version| |Build Status|
+
 Git is a distributed version control system.
 Git is free software.
 Git tracks changes of files.
